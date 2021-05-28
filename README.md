@@ -24,64 +24,61 @@ Gems used:
 
 ## Developer routine
 
-** May 12 **
+**May 12**
 
-  - Project created with rails with Devise;
-  - Model event created;
-  - Controller events created;
-  - Pundit Added;
-  - Event's policy added;
-  - Bootstrap added;
-  - CSS to responsive layout added (@media);
-  - Model banner created;
-  - Controller banners created;
-  - Partners on home page added;
+    - Project created with rails with Devise;
+    - Model event created;
+    - Controller events created;
+    - Pundit Added;
+    - Event's policy added;
+    - Bootstrap added;
+    - CSS to responsive layout added (@media);
+    - Model banner created;
+    - Controller banners created;
+    - Partners on home page added;
 
-** May 14 **
+**May 14**
 
-  - Carousel fixed on home page;
-  - Logo and Partners image added;
-  - Edit action on banner Controllers added;
-  - Footer added on home page;
-
-
-** May 16 **
-
-  - Implements Pundits policy on event index;
-  - Fix migrations;
-  - Implements Pundits policy on banners;
-  - Home page refactored to use dynamic content;
-  - Footer CSS updated;
-  - Logo and about us updated;
-  - Support to google form added;
-
-** May 16 **
-
-  - Implements Pundits policy on event index;
-  - Fix migrations;
-  - Implements Pundits policy on banners;
-  - Home page refactored to use dynamic content;
-  - Footer CSS updated;
-  - Logo and about us updated;
-  - Support to google form added;
-
-** May 18 **
-
-  - Admin painel added;
-  - CSS to admin painel added;
-  - Fix home page and destroy btn;
+    - Carousel fixed on home page;
+    - Logo and Partners image added;
+    - Edit action on banner Controllers added;
+    - Footer added on home page;
 
 
-** May 24 **
+**May 16**
 
-  - Gallery added;
-  - About us text added;
-  - Routes updated;
-  - Responsive layout updated;
-  - Footer layout updated;
+    - Implements Pundits policy on event index;
+    - Fix migrations;
+    - Implements Pundits policy on banners;
+    - Home page refactored to use dynamic content;
+    - Footer CSS updated;
+    - Logo and about us updated;
+    - Support to google form added;
+    - Implements Pundits policy on event index;
+    - Fix migrations;
+    - Implements Pundits policy on banners;
+    - Home page refactored to use dynamic content;
+    - Footer CSS updated;
+    - Logo and about us updated;
+    - Support to google form added;
 
-** May 28 **
+**May 18**
 
-  - Hosting on Heroku;
-  - Project delivered;
+    - Admin painel added;
+    - CSS to admin painel added;
+    - Fix home page and destroy btn;
+
+
+**May 24**
+
+    - Gallery added;
+    - About us text added;
+    - Routes updated;
+    - Responsive layout updated;
+    - Footer layout updated;
+
+**May 28**
+
+    - Hosting on Heroku;
+    - Project delivered;
 
